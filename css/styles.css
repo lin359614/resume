@@ -10990,7 +10990,7 @@ body {
 
 #portfolios .portfolio-container {
   display: grid;
-  grid-template-columns: repeat(4, 1fr); /* 默认 4 列 */
+  grid-template-columns: repeat(4, 2fr); /* 默认 4 列 */
   gap: 10px;
   max-width: 1600px;
   margin: 0 auto;
